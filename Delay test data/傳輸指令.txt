@@ -1,0 +1,4 @@
+scp pi@192.168.137.147:/home/pi/handsystem/ros2_robot_ws/CAN_CAN_delay.csv 'D:\CSP_LAB\Project_arm\final_test\0522_tst\1130520_final_controller_ver1\final_controller_ver1\Delay test data\RPI\data'
+
+scp pi@192.168.137.147:/home/pi/handsystem/ros2_robot_ws/ROS_CAN_delay.csv 'D:\CSP_LAB\Project_arm\final_test\0522_tst\1130520_final_controller_ver1\final_controller_ver1\Delay test data\RPI\data'
+
